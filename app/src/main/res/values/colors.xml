@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#E56425</color>
+    <color name="colorPrimaryDark">#8c411b</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="blue_light">#78B4AE</color>
+    <color name="theme_dark_99_perc_shade_bg">#4D000000</color>
+    <color name="white">#FFFFFF</color>
+
+    <!-- Theme One Color -->
+    <color name="theme_one_background">#1A2122</color>
+    <color name="theme_one_background_dark">#1E2526</color>
+    <color name="theme_one_tab_color">#E56425</color>
+    <color name="theme_one_content_color">#252B2C</color>
+    <color name="theme_one_text_color">#E7E7E7</color>
+
+    <!-- Theme Two Color -->
+    <color name="theme_two_background">#F4F4F4</color>
+    <color name="theme_two_background_dark">#F6F6F6</color>
+    <color name="theme_two_text_color">#293032</color>
+    <color name="theme_two_tab_color">#EB6E29</color>
+
+    <color name="background_transparent">#00FFFFFF</color>
+    <color name="text_color">#FF6E35</color>
+    <color name="category_one_color">#1696D8</color>
+    <color name="category_two_color">#E5961D</color>
+    <color name="category_three_color">#F3467E</color>
+
+</resources>
